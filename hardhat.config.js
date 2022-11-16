@@ -30,6 +30,7 @@ module.exports = {
             chainId: 5,
             blockConfirmations: 6,
             allowUnlimitedContractSize: true,
+            blockGasLimit: 100000000,
         },
     },
     solidity: {
